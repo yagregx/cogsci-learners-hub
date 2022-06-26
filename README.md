@@ -41,6 +41,33 @@ The resources in this repository is currently grouped according to subject field
 * [Activities and Competitions](./ACTIVITIES.md)
   * CogSci-related student & professional activities and academic competitions.
 * [Notes and Roadmap](./ROUTES.md)
+Browse resources by subjects below!
+
+## General Cognitive Science
+
+## Psychology
+
+Add description here...
+
+### Books
+
+### Research related
+
+### Tools
+
+### Open Course Resources
+
+### Learning Programs
+
+### Activities and Competitions
+
+
+## Philosophy
+## Linguistics
+## Computer Science/Artificial Intelligence
+## Neuroscience
+## Anthropology
+
 
 ---
 We will be very greatful if anyone is interested in this project as well 🥺
