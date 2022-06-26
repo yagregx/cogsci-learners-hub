@@ -1,6 +1,6 @@
 # Activities and Competitions
 
-High School Entry
+### High School Entry
 * Olympiads in Informatics `Programming`
 * Linguistics Olympiads `Linguistics`
 * Mathematics Olympiads `Mathematics`
@@ -15,7 +15,7 @@ High School Entry
 * Academic Marathon `Psychology` `Linguistics` `Philosophy` `Mathematics` `Informatics`
 * High School Mathematical Contest in Modeling `Mathematics`
 
-Undergraduate Entry
+### Undergraduate Entry
 * Mathematical Contest in Modeling `Mathematics`
 * Brain Challenge `Neuroscience` `Psychology`
 * Codeforces `Programming`
