@@ -54,7 +54,7 @@ You can also browse the resources by their type by clicking on the subdivisions 
 
 ## Psychology
 
-Add description here...
+Add description here....
 
 ### Books
 
