@@ -29,7 +29,15 @@ The resources in this repository is currently grouped according to subject field
 
 * The Hexagon is a founding idea of the structure of CogSci originally proposed in 1978. See: Keyser, S.J., Miller, G.A., and Walker, E.: Cognitive Science in 1978. An unpublished report submitted to the Alfred P. Sloan Foundation, New York (1978).
 
-## What's included (will be included) in this repo? 
+## What are included in this repository and how to find them? 
+
+### Browse by subjects
+
+The resources are grouped according to subject fields on the main page. There are directories and descriptions to guide you. Just scroll!
+
+### Browse by resource type
+
+You can also browse the resources by their type by clicking on the subdivisions below. They are also pre-databases that help us to know where to put the resources.
 
 (Some/Many pages are not there yet)
 * [Books & E-books](./BOOKS.md)
@@ -41,7 +49,6 @@ The resources in this repository is currently grouped according to subject field
 * [Activities and Competitions](./ACTIVITIES.md)
   * CogSci-related student & professional activities and academic competitions.
 * [Notes and Roadmap](./ROUTES.md)
-Browse resources by subjects below!
 
 ## General Cognitive Science
 
