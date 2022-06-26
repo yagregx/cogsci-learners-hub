@@ -77,6 +77,6 @@ Add description here....
 
 
 ---
-## See our contributors [here](./CONTRIBUTORS.md)
+### See our contributors [here](./CONTRIBUTORS.md)
 We are very grateful to all who is interested in and contributing to this project 🥺
 
