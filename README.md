@@ -77,4 +77,6 @@ Add description here....
 
 
 ---
-We will be very greatful if anyone is interested in this project as well 🥺
+## See our contributors [here](./CONTRIBUTORS.md)
+We are very grateful to all who is interested in and contributing to this project 🥺
+
