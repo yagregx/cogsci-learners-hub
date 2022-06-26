@@ -12,6 +12,8 @@ This is a project still under construction. Contributions are super welcome!
 
 WE ALL LOVE COGSCI.
 
+
+
 ## What is CogSci? 
 
 **First and foremost: COGS** ⚙️
@@ -28,6 +30,8 @@ The resources in this repository is currently grouped according to subject field
 |Supporting Subjects|Mathematics, Programing|
 
 * The Hexagon is a founding idea of the structure of CogSci originally proposed in 1978. See: Keyser, S.J., Miller, G.A., and Walker, E.: Cognitive Science in 1978. An unpublished report submitted to the Alfred P. Sloan Foundation, New York (1978).
+
+
 
 ## What are included in this repository and how to find them? 
 
@@ -50,7 +54,10 @@ You can also browse the resources by their type by clicking on the subdivisions 
   * CogSci-related student & professional activities and academic competitions.
 * [Notes and Roadmap](./ROUTES.md)
 
+
+
 ## General Cognitive Science
+
 
 ## Psychology
 
@@ -70,9 +77,17 @@ Add description here....
 
 
 ## Philosophy
+
+
 ## Linguistics
+
+
 ## Computer Science/Artificial Intelligence
+
+
 ## Neuroscience
+
+
 ## Anthropology
 
 
