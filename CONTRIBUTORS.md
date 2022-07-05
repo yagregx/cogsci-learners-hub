@@ -6,3 +6,5 @@ here are the individuals who have contributed to CogSci Learners Hub
 Dezhi Luo
 * contributes mainly to psychology, philosophy, linguistics, and neuroscience
 
+yagregx
+* I do random things ;-)
