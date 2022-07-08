@@ -36,31 +36,50 @@ ___
 * [The Science of Consciousness](https://consciousness.arizona.edu/science-consciousness-conference) --- the Tucson Conference
 
 # Research Centers
+## Independent
 * [Allen Institute for Brain Science](https://alleninstitute.org/)
 * [The Neurosciences Institute](https://nsi.wegall.net/)
 * [Google DeepMind](https://www.deepmind.com/)
 * [OpenAI](https://openai.com/)
+
+## University-affiliated
+Massachusetts Institute of Technology
 * [MIT Department of Brain and Cognitive Sciences](https://bcs.mit.edu/)
-* [McGovern Institute for Brain Research, MIT](https://mcgovern.mit.edu/)
-* [Picower Institute for Learning and Memory, MIT](https://picower.mit.edu/)
-* [Center for Mind, Brain, Computation and Technology, Stanford University](https://neuroscience.stanford.edu/mbct/home)
-* [Kempner Institute for the Study of Natural and Artificial Intelligence, Harvard University](https://www.harvard.edu/kempner-institute/)
+* [McGovern Institute for Brain Research](https://mcgovern.mit.edu/)
+* [Picower Institute for Learning and Memory](https://picower.mit.edu/)
+Stanford University
+* [Center for Mind, Brain, Computation and Technology](https://neuroscience.stanford.edu/mbct/home)
+Harvard University
+* [Kempner Institute for the Study of Natural and Artificial Intelligence](https://www.harvard.edu/kempner-institute/)
 * [Center for Brain Science, Harvard University](https://cbs.fas.harvard.edu/)
+University of Edinburgh 
 * [University of Edinburgh School of Philosophy, Psychology and Language Sciences](https://www.ed.ac.uk/ppls)
 * [University of Edinburgh School of Informatics](https://www.ed.ac.uk/informatics)
-* [Bayes Centre, University of Edinburgh](https://www.ed.ac.uk/bayes)
-* [Weinberg Institute for Cognitive Science, University of Michigan](https://lsa.umich.edu/weinberginstitute)
+* [Bayes Centre](https://www.ed.ac.uk/bayes)
+University of Michigan
+* [Weinberg Institute for Cognitive Science](https://lsa.umich.edu/weinberginstitute)
+University of California, San Diego
 * [UCSD Cognitive Science Department](https://cogsci.ucsd.edu/)
-* [Institute of Cognitive and Brain Sciences, UC Berkeley](https://icbs.berkeley.edu/)
-* [Tianqiao and Chrissy Chen Institute for Neuroscience, Caltech](https://neuroscience.caltech.edu/)
+University of California, Berkeley
+* [Institute of Cognitive and Brain Sciences](https://icbs.berkeley.edu/)
+California Institute of Technology
+* [Tianqiao and Chrissy Chen Institute for Neuroscience](https://neuroscience.caltech.edu/)
+Carnegie Mellon University
 * [Center for the Neural Basis of Cognition, Carnegie Mellon University and the University of Pittsburgh](https://www.cnbc.cmu.edu/)
+University of Wisconsin, Madison
 * [Wisconsin Institute for Sleep and Consciousness](https://sleep-and-consciousness.wisc.edu/)
-* [Center for Consciousness Studies, University of Arizona](https://consciousness.arizona.edu/)
-* [Center of Cognitive Studies, Tufts University](https://ase.tufts.edu/cogstud/)
+University of Arizona
+* [Center for Consciousness Studies](https://consciousness.arizona.edu/)
+Tufts University
+* [Center of Cognitive Studies](https://ase.tufts.edu/cogstud/)
+University of Florida
 * [McKnight Brain Institute, University of Florida](https://mbi.ufl.edu/)
-* [Institute of Cognitive Science, University of Colorado Boulder](https://www.colorado.edu/ics/)
-* [Donders Institute for Brain, Cognition and Behaviour, Radboud University](https://www.ru.nl/donders/)
-* [Institute for Logic, Language and Computation, University of Amsterdam](https://www.illc.uva.nl/)
+University of Colorado Boulder
+* [Institute of Cognitive Science](https://www.colorado.edu/ics/)
+Radboud University
+* [Donders Institute for Brain, Cognition and Behaviour](https://www.ru.nl/donders/)
+University of Amsterdam
+* [Institute for Logic, Language and Computation](https://www.illc.uva.nl/)
 
 
 # Research Oppurtunities
