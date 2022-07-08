@@ -1,6 +1,12 @@
 A List of cognitive science related journals and research oppurtunities! 
 ___
 # Journals
+> here are some really nice tools to browse journal articles and other research contributions
+> * [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
+> * [Google Scholar](https://scholar.google.com/)
+> * [Scimago](https://www.scimagojr.com/)
+> * [Sci-Hub](https://sci-hub.se/)
+
 * [Trends in Cognitive Science](https://www.cell.com/trends/cognitive-sciences/home) `General CogSci`
 * [Nature Reviews Neuroscience](https://www.nature.com/nrn/)[^1] `Neuroscience`
 * [Elife Neuroscience — Open Science Journal](https://elifesciences.org/subjects/neuroscience) [^1]`Neuroscience`
