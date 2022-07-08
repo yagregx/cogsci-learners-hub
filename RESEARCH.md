@@ -43,7 +43,7 @@ ___
 * [MIT Department of Brain and Cognitive Sciences](https://bcs.mit.edu/)
 * [McGovern Institute for Brain Research, MIT](https://mcgovern.mit.edu/)
 * [Picower Institute for Learning and Memory, MIT](https://picower.mit.edu/)
-* [Center for Mind, Brain, Computation and Technology,Stanford University](https://neuroscience.stanford.edu/mbct/home)
+* [Center for Mind, Brain, Computation and Technology, Stanford University](https://neuroscience.stanford.edu/mbct/home)
 * [Kempner Institute for the Study of Natural and Artificial Intelligence, Harvard University](https://www.harvard.edu/kempner-institute/)
 * [Center for Brain Science, Harvard University](https://cbs.fas.harvard.edu/)
 * [University of Edinburgh School of Philosophy, Psychology and Language Sciences](https://www.ed.ac.uk/ppls)
