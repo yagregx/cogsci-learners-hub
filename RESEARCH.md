@@ -51,7 +51,7 @@ ___
 * [Center for Mind, Brain, Computation and Technology](https://neuroscience.stanford.edu/mbct/home)
 ### Harvard University
 * [Kempner Institute for the Study of Natural and Artificial Intelligence](https://www.harvard.edu/kempner-institute/)
-* [Center for Brain Science, Harvard University](https://cbs.fas.harvard.edu/)
+* [Center for Brain Science](https://cbs.fas.harvard.edu/)
 ### University of California, San Diego
 * [UCSD Cognitive Science Department](https://cogsci.ucsd.edu/)
 ### University of Edinburgh 
