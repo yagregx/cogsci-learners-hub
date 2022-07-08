@@ -4,7 +4,7 @@ here are the individuals who have contributed to CogSci Learners Hub
 
 ## Founding Editors
 Dezhi Luo
-* contributes mainly to psychology, philosophy, linguistics, and neuroscience
+* contributes mainly to psychology, philosophy, linguistics, neuroscience and other random things, such as memes
 
 yagregx
 * I do random things ;-)
