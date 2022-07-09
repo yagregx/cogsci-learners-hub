@@ -1,11 +1,23 @@
 # Activities and Competitions
 
-### High School Entry
+## High School Entry
 * Olympiads in Informatics `Programming`
+> * International Olympiad in Informatics (IOI)
+> * Asia-Pacific Informatics Olympiad (APIO)
+> * China National Olympiad in Informatics (NOI)
+> * United States of America Computing Open Competition (USACO)
 * Linguistics Olympiads `Linguistics`
+> * International Linguistics Olympiad (IOL)
+> * Asia-Pacific Linguistics Olympiad (APLO)
+> * North American Computational Linguistics Open Competition (NACLO)
+> * China National Linguistics Olympiad (NOL)
 * Mathematics Olympiads `Mathematics`
-* Brain Bee Neuroscience `Psychology`
-* Brain Challenge Neuroscience `Psychology`
+> * International Mathematics Olympiad (IMO)
+> * China Mathematics Olympiad (CMO)
+> * United States of America Mathematics Open Competition (USAMO)
+
+* Brain Bee `Neuroscience` `Psychology`
+* Brain Challenge `Neuroscience` `Psychology`
 * Codeforces `Programming`
 * Kaggle `Programming`
 * HOSA `Psychology`
