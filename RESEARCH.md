@@ -9,6 +9,7 @@ here are some really nice tools to browse journal articles and other research co
 
 ## General CogSci
 * [Trends in Cognitive Science](https://www.cell.com/trends/cognitive-sciences/home) `General CogSci`
+* Cognition `General CogSci`
 * PNAS `General CogSci`
 * Judgment and Decision Making `General CogSci`
 * Journal of Consciousness Studies `General CogSci``Philosophy`
@@ -18,8 +19,13 @@ here are some really nice tools to browse journal articles and other research co
 * Frontiers in Psychology `Psychology`
 * Neuroimage `Neuroscience` `Psychology`
 * Consciousness and Cognition `General CogSci``Psychology`
+* Pain `Neuroscience` `Psychology`
+* Psychological Bulletin `Psychology`
+* Journal of Sexual Medicine `Gender Studies` `Neuroscience` `Psychology`
+* Journal of Personality and Social Psychology `Psychology`
+* Journal of Sex Research `Gender Studies` `Psychology`
 
-
+## Neuroscience
 * [Nature Reviews Neuroscience](https://www.nature.com/nrn/)[^1] `Neuroscience`
 * [Elife Neuroscience — Open Science Journal](https://elifesciences.org/subjects/neuroscience) [^1]`Neuroscience`
 * [Frontiers in Neuroscience](https://www.frontiersin.org/journals/neuroscience)[^1]`Neuroscience`
@@ -30,7 +36,6 @@ here are some really nice tools to browse journal articles and other research co
 * Cerebral Cortex `Neuroscience`
 * Cortex `Neuroscience`
 * Neuroimage `Neuroscience` `Psychology`
-* Cognition `General CogSci`
 * Psychological Bulletin `Psychology`
 * Computers in Human Behavior `Psychology` `Informatics`
 * Emotion `Psychology`
@@ -38,6 +43,10 @@ here are some really nice tools to browse journal articles and other research co
 * Pain `Neuroscience` `Psychology`
 * Journal of Sexual Medicine `Gender Studies` `Neuroscience` `Psychology`
 * Journal of Personality and Social Psychology `Psychology`
+
+## Gender Studies
+* Journal of Sexual Medicine `Gender Studies` `Neuroscience` `Psychology`
+* Journal of Sex Research `Gender Studies` `Psychology`
 
 # Conferences
 * Cognitive Science Society
