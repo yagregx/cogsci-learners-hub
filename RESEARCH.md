@@ -61,6 +61,7 @@ here are some really nice tools to browse journal articles and other research co
 ## Independent
 * [Allen Institute for Brain Science](https://alleninstitute.org/)
 * [The Neurosciences Institute](https://nsi.wegall.net/)
+* [RIKEN Center for Brain Science](https://www.riken.jp/en/research/labs/cbs/)
 * [Google DeepMind](https://www.deepmind.com/)
 * [OpenAI](https://openai.com/)
 
@@ -113,6 +114,8 @@ here are some really nice tools to browse journal articles and other research co
 ## Undergraduate
 * [Research Intern, Max Planke Institute for Human Cognitive and Brain Sciences](https://www.cbs.mpg.de/career/internships)
 * [Princeton Neuroscience Institute Summer Internship Program](https://undergraduateresearch.princeton.edu/programs/summer-programs/princeton-neuroscience-institute-summer-internship-program)
+* [NINDS Summer Internship Programs](https://research.ninds.nih.gov/employment-training/ninds-summer-internship-programs-sip)
+* [RIKEN CBS Summer Program](https://cbs.riken.jp/en/summer/)
 
 
 [^1]:[Charlotte Fraza on Youtube: How to learn Computational Neuroscience on your Own (a self-study guide)](https://www.youtube.com/watch?v=MhF3R_0LWbk)
