@@ -46,7 +46,7 @@ Linguistics
 
 Informatics
 * _Machine Learning_, Tom Mitchell `Informatics`
-* _Pattern Recognition and Machine Learning_, Christopher M. Bishop `Informatics`
+* [_Pattern Recognition and Machine Learning_](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf), Christopher M. Bishop `Informatics`
 * _Mind Design II_, John Haugeland `Philosophy` `Informatics` `Psychology`
 * _Gödel, Escher, Bach: an Eternal Golden Braid_, Douglas Hofstadter `Informatics` `General CogSci` `Mathematics`
 
@@ -86,3 +86,4 @@ Programming
 
 # Pre-Contribution Working Memory
 > a book, before being listed above, shall be put here and tagged with subject label to avoid listing error
+* _The Illusion of Conscious Will_, Wegner `Philosophy`
