@@ -20,7 +20,7 @@ WE ALL LOVE COGSCI.
 
 Cognitive science is the scientific study of mind. Its indisciplinary nature encourages people from different academic background to collaborate and contribute to its advancement.
 
-The resources in this repository is currently grouped according to subject fields. Specifc resources may appear under several subject fields if their content is relevant to more than one.
+The resources in this repository is currently grouped according to subject fields. Specifc resources may appear under several subject fields if their content is relevant to more than one (they usually are).
 
 |Group|Subjects Included|
 |---|---|
@@ -57,26 +57,55 @@ You can also browse the resources by their type by clicking on the subdivisions 
 
 
 ## General Cognitive Science
-
+This section includes resources that are about the study of mind as a whole, having related to multiple subject fields. These might include introductional readings, original theories and reviews targeting professional audiences, commentaries on the proceeding of cognitive science... Happy browsing!
 
 ## Psychology
+General description here...
 
-Add description here....
+### Introductory/miscellaneous
 
-### Books
+* Books
+* Research related
+* Tools
+* Open Course Resources
+* Learning Programs
+* Activities and Competitions
 
-### Research related
+### Cognitive Psychology
+subfield description here...
+* Books
+* Research related
+* Tools
+* Open Course Resources
+* Learning Programs
+* Activities and Competitions
 
-### Tools
+### Clinical Psychology
 
-### Open Course Resources
+### Developmental Psychology
 
-### Learning Programs
+### Forensic and Public Service Psychology
 
-### Activities and Competitions
+### Industrial and Organizational Psychology
 
+### Social Psychology
+
+### Behavioral Economics
 
 ## Philosophy
+General description here...
+
+### Introductory/miscellaneous
+
+### Metaphysics and Epistemology
+
+### Value Theory
+
+### Science, Logic, and Mathematics
+
+### History of Philosophy
+
+### Philosophical Tradition
 
 
 ## Linguistics
