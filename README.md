@@ -60,14 +60,17 @@ You can also browse the resources by their type by clicking on the subdivisions 
 This section includes resources that are about the study of mind as a whole, having related to multiple subject fields. These might include introductional readings, original theories and reviews targeting professional audiences, commentaries on the proceeding of cognitive science... Happy browsing!
 
 ## Psychology
-General description here...
+Psychology is...the study of the mind and behavior. 
+
+Historically, psychology was an area within philosophy and emerged from it (see epistemology). It is now a diverse scientific discipline comprising several major branches of research (e.g., experimental, biological, cognitive, lifespan developmental, personality, social), as well as several subareas of research and applied psychology (e.g., clinical, industrial/organizational, school and educational, human factors, health, neuropsychology, cross-cultural). Research in psychology involves observation, experimentation, testing, and analysis to explore the biological, cognitive, emotional, personal, and social processes or stimuli underlying human and animal behavior. The practice of psychology involves the use of psychological knowledge for any of several purposes: to understand and treat mental, emotional, physical, and social dysfunction; to understand and enhance behavior in various settings of human activity (e.g., school, workplace, courtroom, sports arena, battlefield); and to improve machine and building design for human use. (from the [APA Dictionary of Psychology](https://dictionary.apa.org/psychology))
 
 ### Introductory/miscellaneous
 
-* Books
-* Research related
+for a general introduction of psychology, you might consider...
+* 
 * Tools
 * Open Course Resources
+* Research related
 * Learning Programs
 * Activities and Competitions
 
