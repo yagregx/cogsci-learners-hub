@@ -10,13 +10,10 @@ The database is intended to benefit all learners, though some of the content may
 
 This is a project still under construction. Contributions are super welcome! 
 
-WE ALL LOVE COGSCI.
 
 
+## What is CogSci? ⚙️
 
-## What is CogSci? 
-
-**First and foremost: COGS** ⚙️
 
 Cognitive science is the scientific study of mind. Its indisciplinary nature encourages people from different academic background to collaborate and contribute to its advancement.
 
@@ -66,8 +63,9 @@ Historically, psychology was an area within philosophy and emerged from it (see 
 
 ### Introductory/miscellaneous
 
-for a general introduction of psychology, you might consider...
-* 
+#### Books
+_Psychology and Life_, Richard Gerrig & Philip Zimbardo  - A general introduction of psychology as a subject.
+
 * Tools
 * Open Course Resources
 * Research related
