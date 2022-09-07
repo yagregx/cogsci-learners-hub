@@ -96,6 +96,19 @@ subfield description here...
 ## Philosophy
 General description here...
 
+//First edit Sep 7th
+
+### An Introduction To Analytic Philosophy
+
+**Too long to read version**: one of the present Western schools, arguing that traditional philosophical musings on **metaphysics** are meaningless and that the main object of study is language, logic, a study that pursues and **articulates meaning**.
+
+### An Introduction To Mind Philosophy
+
+
+#### Branches Books
+The Computational Theory of Mind By Michael Rescorla, Published in 2015
+
+
 ### Introductory/miscellaneous
 
 ### Metaphysics and Epistemology
