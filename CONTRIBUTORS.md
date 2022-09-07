@@ -8,3 +8,6 @@ Dezhi Luo
 
 yagregx
 * I do random things ;-)
+
+James Tzu
+* Random things about the philosophy, logic and computer science sections.
